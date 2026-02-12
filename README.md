@@ -1,4 +1,3 @@
-# ESP-Byte
 ## ESP32-S3-mini + Ebyte nRF24 multi-purpose controller PCB 
 ### Features/components:
 - ESP32-S3-mini-1U connected via SPI to Ebyte E01 2G4M27SX (nRF24) 
